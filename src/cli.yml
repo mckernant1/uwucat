@@ -1,0 +1,9 @@
+name: uwucat
+version: 0.0.1
+author: Tom McKernan <tmeaglei@gmail.com>
+about: A cat clone that adds in uwus
+args:
+  - FILES:
+      help: Specify input files
+      required: false
+      multiple: true
